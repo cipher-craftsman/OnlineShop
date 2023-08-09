@@ -48,8 +48,7 @@ public class Customer {
         System.out.println(c.getFirstName());
         System.out.println(c.getSex());
         System.out.println(c.getBirthDate());
-
-      
+     
          
     }
 }
