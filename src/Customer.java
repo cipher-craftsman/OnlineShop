@@ -44,9 +44,6 @@ public class Customer {
         c.setSex("Male");
         c.setBirthDate("1/12/1949");
 
-        System.out.println(c.getLastName());
-        System.out.println(c.getFirstName());
-        System.out.println(c.getSex());
-        System.out.println(c.getBirthDate());
+        
     }
 }
